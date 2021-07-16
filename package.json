@@ -1,0 +1,22 @@
+{
+  "name": "blasdarkside",
+  "version": "1.0.0",
+  "description": "**Soy apasionado por la Tecnología Web y las últimas tendencias del rubro.** 😎",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlasDarkseid/BlasDarkseid.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Blas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlasDarkseid/BlasDarkseid/issues"
+  },
+  "homepage": "https://github.com/BlasDarkseid/BlasDarkseid#readme"
+}
