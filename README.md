@@ -12,5 +12,5 @@ Bio
 - Tengo 24 años 🤩
 - Quiero aprender React y Nodejs 🤪🧐
 - Me Encanta la Seguridad Web ⚔💣
-- Felizmente Casado, (Si, Leíste bien,Felizmente)🤵👰
-- Amante de Compartir con la Familia y Amigos🤙🌭🍣   
+- Felizmente Casado, (Si, Leíste bien, Felizmente)🤵👰
+- Amante de Compartir con la Familia y Amigos🤙🌭🍣
